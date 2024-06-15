@@ -1,0 +1,100 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#red {color: darkred}
+#date {color: goldenrod}
+#p1 {color: blueviolet}
+#p2 {color: deeppink}
+#p3 {color: rebeccapurple}
+#p4 {color: blueviolet}
+#link { font-weight: bolder;}
+h4{
+  color: orange
+}
+p{
+  color: blue
+}
+button{
+  background-color: lightcoral;
+  color: white;
+  border: ridge 10px pink;
+  border-radius: 5px;
+}
+img{
+  border: 5px;
+}
+
+
+
+.freeman-regular {
+  font-family: "Freeman", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.neucha-regular {
+  font-family: "Neucha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-neue-regular {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+  font-family: "Neucha", cursive;
+}
+
+p{
+  font-family: "Freeman", sans-serif;
+  }
+
+a{
+  font-family: "Comic Neue", cursive;
+}
+a{
+  color: green
+  }
+body {
+  background-color: lightblue ;
+}
+
+
+.badmintion{
+  color: darkorange ;
+  padding: 10px;
+  border: 5px dotted orangered;
+  margin: 100px;
+  line-height: 3;
+}
+
+.websites{
+  color: blue ;
+  padding: 5px;
+  border: 10px  ridge beige;
+  margin: 100px;
+  line-height: 3;
+}
+.entry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sport {
+  display: flex;
+  flex-direction: row;
+  gap: 50px ;
+  align-self: center;
+  
+}
+
+.technology {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+}
